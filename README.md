@@ -1,2 +1,3 @@
 # Hello-Wolrd
-A repository
+
+I'm a programming student trying to learn as much as i can. 
